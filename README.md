@@ -155,6 +155,7 @@ cv2.destroyAllWindows()
 
 
 ###Histogram of Color Image:
+
 ![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/53d44447-c8d1-490c-ba01-edb1b0b2683c)
 
 ![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/91bdfea1-da33-4b51-a665-47a89abe114e)
