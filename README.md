@@ -146,10 +146,12 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/2a16e333-2cb0-4e7f-a91f-9b7d4a7de2a8)
-![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/e747cb73-2104-42fd-8d2b-51bf74c8e728)
+![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/44929bb4-7ed9-452b-b2fc-d9261555c54f)
 
-Histogram of Color Image:
+
+![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/ceeb74d0-71ce-455a-80fd-06a54a502eee)
+
+###Histogram of Color Image:
 ![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/53d44447-c8d1-490c-ba01-edb1b0b2683c)
 ![image](https://github.com/PERARASU10/HISTOGRAM/assets/118348589/91bdfea1-da33-4b51-a665-47a89abe114e)
 
